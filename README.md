@@ -35,6 +35,9 @@ SQL Server
 ## Created By : Mohd Jahid
 Date : 04/04/2026
 ---
+## 🧩 Data Model
+
+## This project follows a star schema design with fact and dimension tables.
 
 <img width="796" height="906" alt="eda_project_d drawio" src="https://github.com/user-attachments/assets/576be655-4320-4caa-a32d-37533e0b6804" />
 
