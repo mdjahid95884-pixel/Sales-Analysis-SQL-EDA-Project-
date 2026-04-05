@@ -30,7 +30,7 @@ Business Analysis
 
 📌 Tools:
 
-SQL Server / MySQL (whichever you used)
+SQL Server
 
 ## Created By : Mohd Jahid
 Date : 04/04/2026
